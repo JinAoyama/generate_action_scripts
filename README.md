@@ -23,8 +23,8 @@
 1. virtualhome2kg/generate_action_scrips まで移動
 2. virtualhome2kg/simulation/unity_simulator/VirtualHome.exe を実行
 3. Anaconda Pronpt で，jupyter notebook を実行
-4. generate_action_script.ipynb を開く
-5. jupyter notebook が開くので，画面右上の"Logout"の下に，Python の環境が表示される．
+4. jupyter notebook 上で，generate_action_script.ipynb を開く
+5. 画面右上の"Logout"の下に，Python の環境が表示されるので確認
 6. Python 環境が，(environment name)ではない場合，Kernelから，Change kernelを選択し，Python 環境を，(environment name)に変更
 7. Python 環境が，(environment name)に変更されたか確認
 8. 上から順に実行していき，最後のセルに，行動のラベル，行動の説明文を入力する箇所があるので，入力をして実行する．
