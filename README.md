@@ -1,5 +1,3 @@
-# generate_action_scripts
-
 ## 本提案システムの構築方法
 ### Anaconda
 1. Anaconda のインストール
