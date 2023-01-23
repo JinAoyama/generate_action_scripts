@@ -14,9 +14,12 @@
 ### VirtualHome2KG
 5. [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG)のダウンロード
 6. [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG)を参考にして，セットアップ
+
+### generate action scripts
 7. 本システムのフォルダ，generate_action_scripts を，virtualHome2kg 以下に置く
 8. virtualhome2kg/generate_action_scrips まで移動
 9. pip install -r requirements.txt を実行
+10. python -m spacy download en_core_web_sm を実行
 
 ## 本提案システムの実行方法
 1. virtualhome2kg/generate_action_scrips まで移動
