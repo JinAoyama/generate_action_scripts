@@ -1,0 +1,8 @@
+Drink water
+I drink waterglass
+
+
+[WALK] <waterglass> (1)
+[FIND] <waterglass> (1)
+[GRAB] <waterglass> (1)
+[DRINK] <waterglass> (1)

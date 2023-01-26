@@ -1,0 +1,12 @@
+Put salmon in fridge
+go to the kitchen and put salmon in fridge.
+
+
+[WALK] <kitchen> (1)
+[WALK] <salmon> (1)
+[FIND] <salmon> (1)
+[GRAB] <salmon> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)
+[PUTIN] <salmon> (1) <fridge> (1)
