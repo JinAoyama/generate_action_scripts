@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 nltk==3.8
 gensim==4.2.0
 spacy==3.4.4
 transformers==4.25.1
 tensorflow==2.11.0
+=======
+nltk==3.8
+gensim==4.2.0
+spacy==3.4.4
+transformers==4.25.1
+tensorflow==2.11.0
+>>>>>>> 7d924cf29ae0ea9479c3c699ab610675f8a68551
