@@ -18,5 +18,6 @@
 5. 画面右上の"Logout"の下に，Python の環境が表示されるので確認
 6. Python 環境が，(environment name)ではない場合，Kernelから，Change kernelを選択し，Python 環境を，(environment name)に変更
 7. Python 環境が，(environment name)に変更されたか確認
-8. 上から順に実行していき，最後のセルに，行動のラベル，行動の説明文を入力する箇所があるので，入力をして実行する．
-9. generate_action_scrips/output 以下に，アクションスクリプトが生成される
+8. 上から順に実行していき，最後から2番目のセルでデータセットからアクションスクリプト生成
+9. 最後のセルでは，データセットとは他のデータ，行動のラベル，生活行動を表現する自然言語文を入力して実行するとアクションスクリプトが生成される．
+10. アクションスクリプトはgenerate_action_scrips/output 以下に生成される
