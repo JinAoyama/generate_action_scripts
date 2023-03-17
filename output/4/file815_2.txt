@@ -1,0 +1,10 @@
+Wash dishes with dishwasher
+I go the in kitchen then grab the plate on the table. I put the plate and dish soap in the dishwasher. Finally, I turn on the dishwasher.
+
+
+[WALK] <kitchen> (1)
+[FIND] <plate> (1)
+[GRAB] <plate> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[SWITCHON] <dishwasher> (1)

@@ -1,0 +1,12 @@
+Watch TV
+Go to the sofa and watch TV
+
+
+[WALK] <bedroom> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)
+[WALK] <livingroom> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)
+[SWITCHON] <tv> (1)
+[WATCH] <tv> (1)

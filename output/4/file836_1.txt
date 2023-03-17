@@ -1,0 +1,7 @@
+Read book
+Open a book and understand that content
+
+
+[WALK] <bedroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)

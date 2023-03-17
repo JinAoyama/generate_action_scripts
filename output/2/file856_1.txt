@@ -1,0 +1,17 @@
+Wash dishes with dishwasher
+Walk to the kitchen. Open the dishwasher. Grab plate and put it in the dishwasher. Grab dish soap and put it in the dishwasher. Switch on the dishwasher.
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[OPEN] <dishwasher> (1)
+[FIND] <plate> (1)
+[WALK] <plate> (1)
+[WALK] <dishwasher> (1)
+[WALK] <barsoap> (1)
+[FIND] <barsoap> (1)
+[GRAB] <barsoap> (1)
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[SWITCHON] <dishwasher> (1)

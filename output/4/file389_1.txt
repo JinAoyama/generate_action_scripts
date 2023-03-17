@@ -1,0 +1,15 @@
+Set up table
+Walk to dining room. Find table. Find forks. Find plates. Walk to plates. Grab plates. Walk to forks. Grab forks. Walk to table. Set down plates. Set down forks.
+
+
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)
+[FIND] <coffeetable> (1)
+[WALK] <kitchen> (1)
+[WALK] <cutleryfork> (1)
+[FIND] <cutleryfork> (1)
+[FIND] <plate> (1)
+[GRAB] <plate> (1)
+[GRAB] <cutleryfork> (1)
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)

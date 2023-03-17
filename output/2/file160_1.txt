@@ -1,0 +1,7 @@
+Turn on light
+Go to the living room, find the switches (buttons or controllers) for light 1 and light 2 and switch on both the lights one by one.
+
+
+[WALK] <livingroom> (1)
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)

@@ -1,0 +1,8 @@
+Wash dishes with dishwasher
+place all dirty dishes into the dishwasher. add soap to diswasher in the correct place. turn on dishwasher. wait till cycle is completed. put away all dishes.
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[SWITCHON] <dishwasher> (1)

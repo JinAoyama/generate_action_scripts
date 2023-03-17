@@ -1,0 +1,21 @@
+Wash dishes with dishwasher
+I go to the kitchen and open the dishwasher. I fill it up with dirty dishes and glasses. Then I put dish soap in the dishwasher, close it and turn it on.
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[OPEN] <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[CLOSE] <dishwasher> (1)
+[WALK] <bathroom> (1)
+[WALK] <barsoap> (1)
+[FIND] <barsoap> (1)
+[GRAB] <barsoap> (1)
+[WALK] <dishwasher> (1)
+[OPEN] <dishwasher> (1)
+[PUTIN] <barsoap> (1) <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[CLOSE] <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[SWITCHON] <dishwasher> (1)

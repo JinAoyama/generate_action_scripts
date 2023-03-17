@@ -1,0 +1,7 @@
+Pick up phone
+walk to living room , find phone ,pick up phone 3
+
+
+[WALK] <livingroom> (1)
+[WALK] <cellphone> (1)
+[FIND] <cellphone> (1)

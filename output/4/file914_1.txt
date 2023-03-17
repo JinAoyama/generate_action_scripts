@@ -1,0 +1,6 @@
+Browse internet
+I sit in the chair and switch computer on. I use the mouse and look at the computer. I then switch the computer off.
+
+
+[WALK] <kitchen> (1)
+[FIND] <chair> (1)

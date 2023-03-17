@@ -1,0 +1,8 @@
+Put groceries in Fridge
+Find groceries. Grab groceries. Walk to refrigerator. Open refrigerator door. Place groceries into refrigerator. Close refrigerator door.
+
+
+[WALK] <kitchen> (1)
+[WALK] <bananas> (1)
+[FIND] <bananas> (1)
+[WALK] <fridge> (1)

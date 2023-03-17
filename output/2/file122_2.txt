@@ -1,0 +1,12 @@
+Write an email
+go to the living room,find the computer,took the chair and place the chair to in front of the computer,sat on the chair,switch on the computer,open the email,and compose a new mail
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[WALK] <chair> (1)
+[FIND] <chair> (1)
+[GRAB] <chair> (1)
+[WALK] <computer> (1)
+[SWITCHON] <computer> (1)

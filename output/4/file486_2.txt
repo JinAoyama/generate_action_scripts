@@ -1,0 +1,9 @@
+Set up table
+Walk into kitchen. Grab plates and forks. Walk into dining room. Put plates and forks on table.
+
+
+[WALK] <kitchen> (1)
+[FIND] <plate> (1)
+[GRAB] <plate> (1)
+[WALK] <kitchen> (1)
+[FIND] <cutleryfork> (1)

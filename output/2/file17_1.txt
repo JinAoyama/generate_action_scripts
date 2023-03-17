@@ -1,0 +1,10 @@
+Drink
+walk to kitchen, walk to table, grab water glass and drink water
+
+
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)
+[WALK] <bathroom> (1)
+[WALK] <waterglass> (1)
+[FIND] <waterglass> (1)
+[GRAB] <waterglass> (1)

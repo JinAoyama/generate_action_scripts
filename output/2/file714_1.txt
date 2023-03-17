@@ -1,0 +1,10 @@
+Pick up phone
+I will walk in the living room, find the table and grab the phone.
+
+
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)
+[FIND] <coffeetable> (1)
+[WALK] <cellphone> (1)
+[FIND] <cellphone> (1)
+[GRAB] <cellphone> (1)

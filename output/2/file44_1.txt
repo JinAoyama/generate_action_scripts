@@ -1,0 +1,14 @@
+Wash dishes with dishwasher
+I go to the dishwasher and put dish soap. I close the dishwasher and turn it on.
+
+
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[WALK] <bathroom> (1)
+[WALK] <barsoap> (1)
+[FIND] <barsoap> (1)
+[GRAB] <barsoap> (1)
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[SWITCHON] <dishwasher> (1)

@@ -1,0 +1,7 @@
+Pick up phone
+Walk into the living room, walk over to phone, grab the phone, put it to your ear .
+
+
+[WALK] <livingroom> (1)
+[FIND] <cellphone> (1)
+[GRAB] <cellphone> (1)

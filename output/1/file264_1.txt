@@ -1,0 +1,6 @@
+Pick up phone
+Enter office. Go to desk. Pick up phone.
+
+
+[WALK] <bedroom> (1)
+[WALK] <desk> (1)

@@ -1,0 +1,8 @@
+Put groceries in Fridge
+in my home i walk to the kitchen with some groceries and locate the fridge,then open the fridge put the groceries into the fridge and closed.
+
+
+[WALK] <kitchen> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)

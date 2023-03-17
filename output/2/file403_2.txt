@@ -1,0 +1,9 @@
+Wash dishes with dishwasher
+Walk to the sink. Take dishes out of sink. Open dishwasher and place dishes in dishwasher.
+
+
+[WALK] <sink> (1)
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[OPEN] <dishwasher> (1)

@@ -1,0 +1,13 @@
+Cook some food
+I walk in the kitchen, I open the fridge and remove the Chicken. I grab frying fan and put it on stove. I put chicken in the frying pan and I cook food.
+
+
+[WALK] <kitchen> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)
+[WALK] <chicken> (1)
+[FIND] <chicken> (1)
+[GRAB] <chicken> (1)
+[WALK] <stove> (1)
+[FIND] <stove> (1)

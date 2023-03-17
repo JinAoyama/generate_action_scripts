@@ -1,0 +1,6 @@
+Pick up phone
+i go find the phone. i pick up the phone
+
+
+[WALK] <bedroom> (1)
+[FIND] <cellphone> (1)

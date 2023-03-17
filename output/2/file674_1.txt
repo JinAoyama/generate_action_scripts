@@ -1,0 +1,10 @@
+Put groceries in Fridge
+Bring the groceries to the kitchen and put them down. Open the refrigerator. Place the groceries inside the refrigerator. Close the refrigerator.
+
+
+[WALK] <kitchen> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)
+[WALK] <fridge> (1)
+[CLOSE] <fridge> (1)

@@ -1,0 +1,11 @@
+Put groceries in Fridge
+Go to kitchen, open fridge, get groceries, put groceries in fridge, close fridge
+
+
+[WALK] <bedroom> (1)
+[WALK] <bananas> (1)
+[FIND] <bananas> (1)
+[WALK] <bananas> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)

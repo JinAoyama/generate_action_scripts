@@ -1,0 +1,6 @@
+Pick up phone
+Enter the Home office, then walk to the phone, pickup the phone.
+
+
+[WALK] <bedroom> (1)
+[WALK] <cellphone> (1)

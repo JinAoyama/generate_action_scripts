@@ -1,0 +1,10 @@
+Watch TV
+Put on the television, watch it, switch off the television
+
+
+[WALK] <kitchen> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)
+[SWITCHON] <tv> (1)
+[WATCH] <tv> (1)
+[SWITCHOFF] <tv> (1)

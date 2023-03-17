@@ -1,0 +1,8 @@
+Cook some food
+I switch on the stove and cook my groceries there.
+
+
+[WALK] <kitchen> (1)
+[WALK] <stove> (1)
+[FIND] <stove> (1)
+[SWITCHON] <stove> (1)

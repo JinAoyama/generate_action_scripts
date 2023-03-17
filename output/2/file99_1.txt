@@ -1,0 +1,6 @@
+Turn on light
+Turn on lights in Entrance Hall
+
+
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)

@@ -1,0 +1,11 @@
+Work
+Walk to home office. Walk to computer. Switch on computer. Open the address book.
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)
+[WALK] <bedroom> (1)
+[WALK] <notes> (1)
+[FIND] <notes> (1)

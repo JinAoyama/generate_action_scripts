@@ -1,0 +1,8 @@
+Change TV channel
+Walk to living room. Walk to and sit at the sofa. Grab remote control and switch on TV.
+
+
+[WALK] <livingroom> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)
+[SWITCHON] <tv> (1)

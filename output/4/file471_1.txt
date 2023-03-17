@@ -1,0 +1,8 @@
+Wash dishes with dishwasher
+Fill the dishwasher, operate it and empty it afterwards
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[OPEN] <dishwasher> (1)

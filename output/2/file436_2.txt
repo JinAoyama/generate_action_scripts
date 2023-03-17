@@ -1,0 +1,8 @@
+Browse internet
+Go to home office, turn on the computer, open the internet and browse around the internet.
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)

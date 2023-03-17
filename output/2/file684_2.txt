@@ -1,0 +1,8 @@
+Watch TV
+walk into the living room walk to the remote pick it up and turn in the tv and watch
+
+
+[WALK] <livingroom> (1)
+[WALK] <remotecontrol> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)

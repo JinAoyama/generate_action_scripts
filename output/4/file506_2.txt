@@ -1,0 +1,4 @@
+Cook some food
+Walk into kitchen. Open fridge. Take food from fridge. Close fridge. Put food on kitchen counter. Prepare food. Turn on stove. Open kitchen cabinet. Take pot. Close cabinet. Put food in pot. Put pot on stove. Cook food.
+
+

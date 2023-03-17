@@ -1,0 +1,8 @@
+Relax on sofa
+I'm tired and want to relax on the sofa
+
+
+[WALK] <bedroom> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)
+[SIT] <sofa> (1)

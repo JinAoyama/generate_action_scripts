@@ -1,0 +1,8 @@
+Pick up phone
+stand up, walk to Entrance Hall, walk to table, lift the phone
+
+
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)
+[FIND] <cellphone> (1)
+[GRAB] <cellphone> (1)

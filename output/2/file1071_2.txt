@@ -1,0 +1,10 @@
+Pick up phone
+walk into living room, look at the phone when it ringing, grab the phone or pickup the phone
+
+
+[WALK] <livingroom> (1)
+[WALK] <cellphone> (1)
+[FIND] <cellphone> (1)
+[TURNTO] <cellphone> (1)
+[LOOKAT] <cellphone> (1)
+[GRAB] <cellphone> (1)

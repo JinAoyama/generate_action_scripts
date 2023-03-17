@@ -1,0 +1,11 @@
+Listen to music
+Walk to CD player and turn it on then go and sit in a chair and turn the remote control on and then listen to some music.
+
+
+[WALK] <bedroom> (1)
+[WALK] <radio> (1)
+[FIND] <radio> (1)
+[SWITCHON] <radio> (1)
+[WALK] <chair> (1)
+[FIND] <chair> (1)
+[SIT] <chair> (1)

@@ -1,0 +1,6 @@
+Turn on light
+I need to turn on the lights in the kitchen so I can make dinner.
+
+
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)

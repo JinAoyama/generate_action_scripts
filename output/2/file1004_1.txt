@@ -1,0 +1,5 @@
+Relax on sofa
+walk to living room, walk to sofa, sit on sofa.
+
+
+[WALK] <livingroom> (1)

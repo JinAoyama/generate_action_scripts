@@ -1,0 +1,10 @@
+Read book
+Go to living room, take textbook from table sit on a chair and close book after reading and put back on table.
+
+
+[WALK] <livingroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)
+[GRAB] <book> (1)
+[WALK] <coffeetable> (1)
+[FIND] <coffeetable> (1)

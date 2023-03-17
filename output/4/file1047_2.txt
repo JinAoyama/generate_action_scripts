@@ -1,0 +1,7 @@
+Wash dishes with dishwasher
+Take a dish and put it in the dishwasher to be washed
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)

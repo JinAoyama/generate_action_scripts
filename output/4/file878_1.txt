@@ -1,0 +1,10 @@
+Work
+Go to home office and open door.  Walk to desk and sit in computer chair.  Look at computer.
+
+
+[WALK] <livingroom> (1)
+[WALK] <desk> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[TURNTO] <computer> (1)
+[LOOKAT] <computer> (1)

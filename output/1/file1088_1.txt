@@ -1,0 +1,7 @@
+Read book
+I go to the book case, I select a book, I go back and sit down, then I read.
+
+
+[WALK] <bedroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)

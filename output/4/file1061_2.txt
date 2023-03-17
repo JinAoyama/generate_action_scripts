@@ -1,0 +1,9 @@
+Browse internet
+I walk to the home office and find the computer. I switch on the computer and open the browser. I type in Google and press search.
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[WALK] <computer> (1)
+[SWITCHON] <computer> (1)

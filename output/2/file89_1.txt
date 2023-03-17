@@ -1,0 +1,13 @@
+Put groceries in Fridge
+I take the groceries out of the grocery bags, throw away grocery bags, categorize the food so that I know where it goes in the fridge, open the fridge, and place each item in the fridge before closing the fridge.
+
+
+[WALK] <bedroom> (1)
+[WALK] <bananas> (1)
+[FIND] <bananas> (1)
+[WALK] <kitchen> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)
+[WALK] <fridge> (1)
+[WALK] <fridge> (1)

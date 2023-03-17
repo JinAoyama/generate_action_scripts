@@ -1,0 +1,6 @@
+Turn on light
+Coming home turning on lights.
+
+
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)

@@ -1,0 +1,22 @@
+Put groceries in Fridge
+stand up, walk to kitchen, look at groceries, grab groceries, look at fridge, walk to fridge, open the door of fridge, put groceries in fridge, close the door
+
+
+[WALK] <bedroom> (1)
+[WALK] <bananas> (1)
+[FIND] <bananas> (1)
+[TURNTO] <bananas> (1)
+[LOOKAT] <bananas> (1)
+[WALK] <kitchen> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[TURNTO] <fridge> (1)
+[LOOKAT] <fridge> (1)
+[WALK] <door> (1)
+[FIND] <door> (1)
+[WALK] <bedroom> (1)
+[WALK] <bananas> (1)
+[WALK] <fridge> (1)
+[OPEN] <fridge> (1)
+[WALK] <door> (1)
+[CLOSE] <door> (1)

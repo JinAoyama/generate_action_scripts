@@ -1,0 +1,11 @@
+Drink
+I walk into the kitchen. I reach into the cabinet and pick up a water glass. Turn on the faucet and place the glass under the water stream. Bring the glass of water to lips and drink.
+
+
+[WALK] <livingroom> (1)
+[WALK] <cabinet> (1)
+[WALK] <kitchen> (1)
+[FIND] <waterglass> (1)
+[WALK] <faucet> (1)
+[FIND] <faucet> (1)
+[SWITCHON] <faucet> (1)

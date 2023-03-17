@@ -1,0 +1,11 @@
+Read book
+Find a book, pick up the book, open the book, and read it.
+
+
+[WALK] <bedroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)
+[WALK] <book> (1)
+[WALK] <book> (1)
+[GRAB] <book> (1)
+[READ] <book> (1)

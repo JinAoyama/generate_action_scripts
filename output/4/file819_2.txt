@@ -1,0 +1,7 @@
+Turn on light
+I go into my room, find the light,  then turn on the lights.
+
+
+[WALK] <bathroom> (1)
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)

@@ -1,0 +1,10 @@
+Write an email
+walk into office, sit in chair, turn on computer, write email
+
+
+[WALK] <bedroom> (1)
+[WALK] <desk> (1)
+[FIND] <chair> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)

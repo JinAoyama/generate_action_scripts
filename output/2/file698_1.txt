@@ -1,0 +1,9 @@
+Browse internet
+Walk to home office. Walk to computer. Switch on Computer.
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)

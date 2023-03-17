@@ -1,0 +1,10 @@
+Browse internet
+Sit in the desk, switch on the computer and click in the browser application
+
+
+[WALK] <bedroom> (1)
+[WALK] <desk> (1)
+[FIND] <desk> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)

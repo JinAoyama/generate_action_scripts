@@ -1,0 +1,9 @@
+Work
+Walk into your home office. Sit down and turn on the computer. Once signed in proceed to work on computer.
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)
+[WALK] <computer> (1)

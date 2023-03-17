@@ -1,0 +1,13 @@
+Watch TV
+Go to the living room, sit on the couch, find the remote, switch on the TV and watch
+
+
+[WALK] <livingroom> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)
+[SIT] <sofa> (1)
+[STAND_UP]
+[WALK] <remotecontrol> (1)
+[FIND] <remotecontrol> (1)
+[FIND] <tv> (1)
+[SWITCHON] <tv> (1)

@@ -1,0 +1,6 @@
+Go to toilet
+I walk into the bath room and go to the toilet
+
+
+[WALK] <bathroom> (1)
+[WALK] <toilet> (1)

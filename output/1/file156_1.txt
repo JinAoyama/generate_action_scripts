@@ -1,0 +1,9 @@
+Drink
+Drink water from a cup
+
+
+[WALK] <bedroom> (1)
+[WALK] <wineglass> (1)
+[FIND] <wineglass> (1)
+[GRAB] <wineglass> (1)
+[DRINK] <wineglass> (1)

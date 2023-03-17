@@ -1,0 +1,11 @@
+Read book
+i take a book from my table and open and read it
+
+
+[WALK] <bedroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)
+[GRAB] <book> (1)
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)
+[FIND] <coffeetable> (1)

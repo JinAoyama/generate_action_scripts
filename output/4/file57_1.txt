@@ -1,0 +1,10 @@
+Read book
+Walk to the couch in the living room, sit on ti and read the book
+
+
+[WALK] <kitchen> (1)
+[WALK] <sofa> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)
+[GRAB] <book> (1)
+[READ] <book> (1)

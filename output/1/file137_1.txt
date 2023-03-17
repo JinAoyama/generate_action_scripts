@@ -1,0 +1,4 @@
+Relax on sofa
+allow sofa to support weight in order to decrease gravity induced entropy
+
+

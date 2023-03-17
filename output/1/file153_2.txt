@@ -1,0 +1,8 @@
+Work
+turn computer on, open application to work with
+
+
+[WALK] <bedroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)

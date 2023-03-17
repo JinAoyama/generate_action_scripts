@@ -1,0 +1,9 @@
+Browse internet
+Go find a computer, turn it on, click google, and browse the internet.
+
+
+[WALK] <bedroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[WALK] <computer> (1)
+[SWITCHON] <computer> (1)

@@ -1,0 +1,6 @@
+Turn on light
+walk into living room, walk to light, turn on light switch.
+
+
+[WALK] <livingroom> (1)
+[WALK] <lightswitch> (1)

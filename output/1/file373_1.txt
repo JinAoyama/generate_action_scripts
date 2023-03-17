@@ -1,0 +1,8 @@
+Work
+go to home office. turn the computer on. begin working
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)

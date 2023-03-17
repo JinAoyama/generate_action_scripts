@@ -1,0 +1,12 @@
+Browse internet
+Walk to home office. Find computer. Sit in chair in front of computer desk. Turn on computer. Open internet browser. Browse the internet
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[FIND] <chair> (1)
+[SIT] <chair> (1)
+[STAND_UP]
+[WALK] <computer> (1)
+[SWITCHON] <computer> (1)

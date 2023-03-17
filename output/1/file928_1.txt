@@ -1,0 +1,7 @@
+Browse internet
+Sit at computer and surf the web
+
+
+[WALK] <bedroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)

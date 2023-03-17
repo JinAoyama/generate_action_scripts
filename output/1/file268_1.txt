@@ -1,0 +1,10 @@
+Relax on sofa
+I walk into the living room and turn on the light. I walk to the couch then sit on the couch.
+
+
+[WALK] <livingroom> (1)
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)
+[SIT] <sofa> (1)

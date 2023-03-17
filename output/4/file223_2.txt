@@ -1,0 +1,21 @@
+Wash dishes with dishwasher
+walk into kitchen, find dishwasher, put plates in dishwasher, put soap in dishwasher, turn on dishwasher
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[WALK] <plate> (1)
+[FIND] <plate> (1)
+[GRAB] <plate> (1)
+[WALK] <dishwasher> (1)
+[OPEN] <dishwasher> (1)
+[PUTIN] <plate> (1) <dishwasher> (1)
+[WALK] <bathroom> (1)
+[WALK] <barsoap> (1)
+[FIND] <barsoap> (1)
+[GRAB] <barsoap> (1)
+[WALK] <dishwasher> (1)
+[PUTIN] <barsoap> (1) <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[SWITCHON] <dishwasher> (1)

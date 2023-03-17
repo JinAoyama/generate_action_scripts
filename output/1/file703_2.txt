@@ -1,0 +1,7 @@
+Put groceries in Fridge
+walk to kitchen and seprate the groceries and arrange in fridge.
+
+
+[WALK] <kitchen> (1)
+[WALK] <bananas> (1)
+[FIND] <bananas> (1)

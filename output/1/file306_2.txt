@@ -1,0 +1,7 @@
+Watch TV
+I come home and go to the sofa for turn off the tv and relax
+
+
+[WALK] <livingroom> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)

@@ -1,0 +1,8 @@
+Listen to music
+Find radio. Turn on radio. Find a station that you like by switching through the channels. Listen.
+
+
+[WALK] <bedroom> (1)
+[WALK] <radio> (1)
+[FIND] <radio> (1)
+[SWITCHON] <radio> (1)

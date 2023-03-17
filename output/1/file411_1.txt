@@ -1,0 +1,15 @@
+Watch TV
+Walk to Living room. Find Television. Walk to sofa. Sit on sofa. Find Remote. Grab remote. Turn to television. Look at television. Switch on Television.
+
+
+[WALK] <livingroom> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)
+[SIT] <sofa> (1)
+[STAND_UP]
+[WALK] <tv> (1)
+[TURNTO] <tv> (1)
+[LOOKAT] <tv> (1)
+[SWITCHON] <tv> (1)

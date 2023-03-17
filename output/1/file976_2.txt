@@ -1,0 +1,7 @@
+Pick up phone
+I hear the phone ringing in the office, I go in the office and pick up the phone on the desk.
+
+
+[WALK] <bedroom> (1)
+[WALK] <desk> (1)
+[FIND] <desk> (1)

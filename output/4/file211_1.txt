@@ -1,0 +1,6 @@
+Pick up phone
+I walk over to the phone and pick it up.
+
+
+[WALK] <kitchen> (1)
+[WALK] <cellphone> (1)

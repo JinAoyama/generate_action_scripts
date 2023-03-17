@@ -1,0 +1,11 @@
+Change TV channel
+Walk to the living room and look at the coffee table. Grab the remote control and turn to the television and point the remote control. Put back the remote control.
+
+
+[WALK] <livingroom> (1)
+[WALK] <coffeetable> (1)
+[FIND] <coffeetable> (1)
+[TURNTO] <coffeetable> (1)
+[LOOKAT] <coffeetable> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)

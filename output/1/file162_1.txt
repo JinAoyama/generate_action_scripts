@@ -1,0 +1,7 @@
+Change TV channel
+Lift the remote and change the channel
+
+
+[WALK] <livingroom> (1)
+[FIND] <remotecontrol> (1)
+[GRAB] <remotecontrol> (1)

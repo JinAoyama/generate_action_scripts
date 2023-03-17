@@ -1,0 +1,6 @@
+Work
+Sit down on chair in front of computer, turn on computer, find mouse.
+
+
+[WALK] <kitchen> (1)
+[FIND] <chair> (1)

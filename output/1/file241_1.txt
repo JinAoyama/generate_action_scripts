@@ -1,0 +1,6 @@
+Pick up phone
+Find phone. Move to phone. Pick the phone up.
+
+
+[WALK] <bedroom> (1)
+[FIND] <cellphone> (1)

@@ -1,0 +1,7 @@
+Listen to music
+go to radio. run on radio.
+
+
+[WALK] <bedroom> (1)
+[WALK] <radio> (1)
+[FIND] <radio> (1)

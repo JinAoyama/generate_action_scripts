@@ -1,0 +1,8 @@
+Watch TV
+Sit down, turn on the TV with the remote control that is on the coffee table.
+
+
+[WALK] <kitchen> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)
+[SWITCHON] <tv> (1)

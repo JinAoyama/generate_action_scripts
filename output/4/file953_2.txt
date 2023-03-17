@@ -1,0 +1,13 @@
+Work
+Walk to the home office and turn to the desk. Switch on the computer. Grab the mouse and keyboard to start working.
+
+
+[WALK] <livingroom> (1)
+[WALK] <desk> (1)
+[FIND] <desk> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[SWITCHON] <computer> (1)
+[WALK] <mouse> (1)
+[FIND] <mouse> (1)
+[GRAB] <mouse> (1)

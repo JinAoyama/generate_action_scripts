@@ -1,0 +1,10 @@
+Wash dishes with dishwasher
+I open the dishwasher, I inser all dishes I find in the kitchen, I find a dishwasher tab and insert it into the dishwasher, then I close the dishwasher and start the process
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[OPEN] <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[CLOSE] <dishwasher> (1)

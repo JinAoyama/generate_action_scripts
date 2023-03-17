@@ -1,0 +1,11 @@
+Put groceries in Fridge
+Open fridge and set groceries inside. Close door to fridge.
+
+
+[WALK] <kitchen> (1)
+[WALK] <fridge> (1)
+[FIND] <fridge> (1)
+[OPEN] <fridge> (1)
+[WALK] <door> (1)
+[FIND] <door> (1)
+[CLOSE] <door> (1)

@@ -1,0 +1,6 @@
+Browse internet
+Go to the office an open the computer at the desk
+
+
+[WALK] <bedroom> (1)
+[WALK] <desk> (1)

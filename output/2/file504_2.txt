@@ -1,0 +1,7 @@
+Read book
+I find my favorite book then I sit down open the book and begin reading it
+
+
+[WALK] <bedroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)

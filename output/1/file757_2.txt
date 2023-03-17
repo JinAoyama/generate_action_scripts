@@ -1,0 +1,11 @@
+Work
+Find the computer. Turn it on by pressing the on button. Wait for it to load. Use the mouse and keyboard to perform your tasks on screen.
+
+
+[WALK] <bedroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)
+[WALK] <computer> (1)
+[SWITCHON] <computer> (1)
+[WALK] <mouse> (1)
+[FIND] <mouse> (1)

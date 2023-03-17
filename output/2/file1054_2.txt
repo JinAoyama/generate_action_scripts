@@ -1,0 +1,9 @@
+Read book
+Read a book
+
+
+[WALK] <bedroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)
+[GRAB] <book> (1)
+[READ] <book> (1)

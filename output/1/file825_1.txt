@@ -1,0 +1,7 @@
+Work
+I go into my home office to pay my bills on my computer.
+
+
+[WALK] <livingroom> (1)
+[WALK] <computer> (1)
+[FIND] <computer> (1)

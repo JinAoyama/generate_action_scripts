@@ -1,0 +1,11 @@
+Listen to music
+Go to living room. Find CD player. Pick CD. Put CD in CD player. Play music.
+
+
+[WALK] <bedroom> (1)
+[WALK] <radio> (1)
+[FIND] <radio> (1)
+[WALK] <candle> (1)
+[FIND] <candle> (1)
+[GRAB] <candle> (1)
+[WALK] <radio> (1)

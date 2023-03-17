@@ -1,0 +1,10 @@
+Change TV channel
+I find the remote control, turn, and walk over to it. I pick up the remote control. I look at the television. I point the remote control at the television and use it.
+
+
+[WALK] <kitchen> (1)
+[WALK] <tv> (1)
+[FIND] <tv> (1)
+[TURNTO] <tv> (1)
+[LOOKAT] <tv> (1)
+[WALK] <tv> (1)

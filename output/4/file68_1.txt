@@ -1,0 +1,11 @@
+Pick up phone
+first i will go to home office and switch on the lights and answer the call after then i will put back it and switch off the lights and close the door
+
+
+[WALK] <livingroom> (1)
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)
+[SWITCHOFF] <lightswitch> (1)
+[WALK] <door> (1)
+[FIND] <door> (1)
+[CLOSE] <door> (1)

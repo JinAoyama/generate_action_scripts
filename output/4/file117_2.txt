@@ -1,0 +1,15 @@
+Wash dishes with dishwasher
+In the kitchen, open up the dishwasher. Take plates from the sink and put them in the dishwasher one by one. Close the dishwasher. Program it. Push start.
+
+
+[WALK] <kitchen> (1)
+[WALK] <dishwasher> (1)
+[FIND] <dishwasher> (1)
+[OPEN] <dishwasher> (1)
+[WALK] <plate> (1)
+[FIND] <plate> (1)
+[GRAB] <plate> (1)
+[WALK] <dishwasher> (1)
+[WALK] <dishwasher> (1)
+[CLOSE] <dishwasher> (1)
+[WALK] <dishwasher> (1)

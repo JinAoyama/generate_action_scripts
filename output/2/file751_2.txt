@@ -1,0 +1,6 @@
+Go to toilet
+I go to the bathroom. I locate the toilet. I walk to the toilet.
+
+
+[WALK] <bathroom> (1)
+[WALK] <toilet> (1)

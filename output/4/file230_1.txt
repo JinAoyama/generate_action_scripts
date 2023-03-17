@@ -1,0 +1,8 @@
+Relax on sofa
+Relax on the sofa in the living room.
+
+
+[WALK] <kitchen> (1)
+[WALK] <sofa> (1)
+[FIND] <sofa> (1)
+[SIT] <sofa> (1)

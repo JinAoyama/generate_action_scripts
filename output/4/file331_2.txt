@@ -1,0 +1,6 @@
+Turn on light
+switching on light in an area
+
+
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)

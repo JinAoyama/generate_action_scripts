@@ -1,0 +1,8 @@
+Turn on light
+walk in kitchen. switch on light. walk in living room. switch on light.walk in entrance hall. switch on light.
+
+
+[WALK] <kitchen> (1)
+[WALK] <lightswitch> (1)
+[FIND] <lightswitch> (1)
+[WALK] <livingroom> (1)

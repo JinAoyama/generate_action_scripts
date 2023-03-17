@@ -1,0 +1,9 @@
+Read book
+Walk to living room. Find book. Grab book. Open book. Read book.
+
+
+[WALK] <livingroom> (1)
+[WALK] <book> (1)
+[FIND] <book> (1)
+[GRAB] <book> (1)
+[READ] <book> (1)
