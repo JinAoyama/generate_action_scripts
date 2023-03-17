@@ -1,19 +1,17 @@
 ## システムの構築方法（ナレッジグラフ推論チャレンジ用）
-### 事前に準備するもの
-1. Anaconda
+### 事前に準備すること
+1. Anaconda（実行環境はAnaconda）
 2. Anaconda で仮想環境構築
 3. jupyter のインストール
 4. [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG) のセットアップ
 5. virtualhome2kg/demo/unity_demo.ipynb が正常に動かせることを確認（VirtualHome自体が動かせることを確認）
 
-### generate action scripts
-7. 本システムのフォルダ，generate_action_scripts を，virtualHome2kg 以下に置く
-8. virtualhome2kg/generate_action_scrips まで移動
-9. pip install -r requirements.txt を実行
-10. python -m spacy download en_core_web_sm を実行
+## 本システムの実行準備
+1. VirtualHomeが動くことが確認出来たら，本システムgenerate_action_scriptsを，virtualHome2kg以下に置く
+2. virtualhome2kg/generate_action_scrips以下で，pip install -r requirements.txt を実行
+3. python -m spacy download en_core_web_sm を実行
 
 ## 本提案システムの実行方法
-1. virtualhome2kg/generate_action_scrips まで移動
 2. virtualhome2kg/simulation/unity_simulator/VirtualHome.exe を実行
 3. Anaconda Pronpt で，jupyter notebook を実行
 4. jupyter notebook 上で，generate_action_script.ipynb を開く
