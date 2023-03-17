@@ -1,17 +1,10 @@
 ## システムの構築方法（ナレッジグラフ推論チャレンジ用）
-### Anaconda
-1. Anaconda のインストール
-2. Anaconda Pronpt を起動
-
-#### 仮想環境構築
-3. conda env create -n (environment name)
-4. conda activate (environment name)
-
-※(environment name) には任意の名前を入力
-
-### VirtualHome2KG
-5. [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG)のダウンロード
-6. [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG)を参考にして，セットアップ
+### 事前に準備するもの
+1. Anaconda
+2. Anaconda で仮想環境構築
+3. jupyter のインストール
+4. [VirtualHome2KG](https://github.com/aistairc/VirtualHome2KG) のセットアップ
+5. virtualhome2kg/demo/unity_demo.ipynb が正常に動かせることを確認（VirtualHome自体が動かせることを確認）
 
 ### generate action scripts
 7. 本システムのフォルダ，generate_action_scripts を，virtualHome2kg 以下に置く
