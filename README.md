@@ -12,12 +12,9 @@
 3. python -m spacy download en_core_web_sm を実行
 
 ## 本提案システムの実行方法
-2. virtualhome2kg/simulation/unity_simulator/VirtualHome.exe を実行
-3. Anaconda Pronpt で，jupyter notebook を実行
-4. jupyter notebook 上で，generate_action_script.ipynb を開く
-5. 画面右上の"Logout"の下に，Python の環境が表示されるので確認
-6. Python 環境が，(environment name)ではない場合，Kernelから，Change kernelを選択し，Python 環境を，(environment name)に変更
-7. Python 環境が，(environment name)に変更されたか確認
-8. 上から順に実行していき，最後から2番目のセルでデータセットからアクションスクリプト生成
-9. 最後のセルでは，データセットとは他のデータ，行動のラベル，生活行動を表現する自然言語文を入力して実行するとアクションスクリプトが生成される．
-10. アクションスクリプトはgenerate_action_scrips/output 以下に生成される.最後から３番目のセルで生成する場所を指定している．
+1. virtualhome2kg/simulation/unity_simulator/VirtualHome.exe を実行
+2. Anaconda Pronpt で，jupyter notebook を実行
+3. jupyter notebook 上で，generate_action_script.ipynb を開く
+4. 上から順に実行していき，最後から2番目のセルでデータセットからアクションスクリプト生成
+5. 最後のセルでは，データセットとは他のデータ，行動のラベル，生活行動を表現する自然言語文を入力して実行するとアクションスクリプトが生成される．
+6. アクションスクリプトはgenerate_action_scrips/output 以下に生成される.最後から３番目のセルで生成する場所を指定している．
